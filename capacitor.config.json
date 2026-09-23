@@ -1,0 +1,8 @@
+{
+  "appId": "com.freestudycampus.app",
+  "appName": "Free Study Campus",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
